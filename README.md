@@ -1,4 +1,4 @@
-# GraphFPN: Graph Pyramid Network for Object Detection
+# GraphFPN: Graph Feature Pyramid Network for Object Detection
 Graph Pyramid Network for Object Detection \
 Download graph-mmdet.zip \
 then you can run: \
